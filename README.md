@@ -2,6 +2,28 @@
 
 A web-based DAW that splits any MP3 into stems (vocals, drums, bass, other) using AI and lets you remix the song in your browser.
 
+## Screenshots
+
+### Upload
+Drop an MP3 file to get started. Previous sessions are listed below for quick access.
+
+![Upload page](screenshots/upload.png)
+
+### Arrangement View
+FL Studio-style track lanes with colored clip blocks and waveforms. Click anywhere to seek.
+
+![Arrangement view](screenshots/arrangement.png)
+
+### Mixer View
+Vertical faders, pan knobs, peak meters, and a master strip. Press `2` to switch here.
+
+![Mixer view](screenshots/mixer.png)
+
+### Effects Rack
+Per-track effects with reverb, delay, EQ, and distortion. Each has knobs and a power toggle.
+
+![Effects rack](screenshots/effects.png)
+
 ## Features
 
 ### Stem Separation
